@@ -1,6 +1,3 @@
-#Import everything in the control module, 
-#including functions, classes, variables, and more.
-
 from Control import *
 import socket
 import sys
